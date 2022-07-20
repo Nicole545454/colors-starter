@@ -79,6 +79,9 @@ footer {
   }
   
 }
+.col-3 {
+  width: 50%;
+}
 
 
 /*---------- Desktops ----------*/
@@ -103,4 +106,7 @@ footer {
     background-color: turquoise;
   }
    
+}
+.col-3 {
+  width: 33.3%;
 }
